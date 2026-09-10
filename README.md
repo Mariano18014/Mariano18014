@@ -8,16 +8,17 @@ Hi, I'm Mariano Hasan!
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Analyst+Systems+Graduate;Flutter+Developer;JavaScript+MERN+Stack;Always+learning+new+things&center=true&width=420&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;TypeScript+%26+Node.js;Java+%26+React;Always+learning+new+things&center=true&width=420&height=45">
 </p>
 
 <hr>
 
 <pre>
-💻 Analyst Systems graduate with experience in mobile and web development
-📱 Professional experience as a Flutter & Dart developer
-🌐 Knowledge in JavaScript with focus on MERN stack
+💻 Full Stack Developer with experience in web and mobile development
+🌐 Backend development with Node.js, TypeScript and Java
+⚛️ Frontend development with React
 🧩 Experience consuming and integrating REST APIs
+🗄️ Database design and management with MongoDB, SQL Server and PostgreSQL
 🧠 Background in functional analysis and requirements gathering
 🔁 Teamwork experience using Scrum methodology
 🛠️ Version control and collaboration using Git & GitHub
@@ -44,13 +45,13 @@ Hi, I'm Mariano Hasan!
 
 <h3>👨‍💻 Programming Languages</h3>
 <p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
 </p>
 
 <h3>🧰 Frameworks & Libraries</h3>
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
@@ -58,9 +59,9 @@ Hi, I'm Mariano Hasan!
 
 <h3>🗄️ Databases & Backend</h3>
 <p>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 </p>
 
 <h3>⚙️ Tools & Methodologies</h3>
